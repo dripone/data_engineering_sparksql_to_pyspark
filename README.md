@@ -1,2 +1,2 @@
-# data_engineering_sparksql_to_pyspark
+# SparkSQL to PySpark
 Basic templates to see, how they look in different versions.
